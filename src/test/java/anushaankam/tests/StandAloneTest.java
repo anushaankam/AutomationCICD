@@ -22,7 +22,7 @@ public class StandAloneTest {
 		// TODO Auto-generated method stub
 
 
-		//new comments are added
+		//new comments added to check CICD
 
 		String productname = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
